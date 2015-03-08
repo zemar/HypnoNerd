@@ -85,17 +85,17 @@
 		27C71E3C1AAB682D00B1B7D2 /* HypnoNerd */ = {
 			isa = PBXGroup;
 			children = (
-				27C71E5D1AAB693B00B1B7D2 /* BNRHypnosisView.h */,
-				27C71E5E1AAB693B00B1B7D2 /* BNRHypnosisView.m */,
 				27C71E411AAB682D00B1B7D2 /* AppDelegate.h */,
 				27C71E421AAB682D00B1B7D2 /* AppDelegate.m */,
-				27C71E441AAB682D00B1B7D2 /* Images.xcassets */,
-				27C71E3D1AAB682D00B1B7D2 /* Supporting Files */,
+				27C71E5D1AAB693B00B1B7D2 /* BNRHypnosisView.h */,
+				27C71E5E1AAB693B00B1B7D2 /* BNRHypnosisView.m */,
 				27C71E601AAB69F900B1B7D2 /* BNRHypnosisViewController.h */,
 				27C71E611AAB69F900B1B7D2 /* BNRHypnosisViewController.m */,
 				27C71E631AABA49D00B1B7D2 /* BNRReminderViewController.h */,
 				27C71E641AABA49D00B1B7D2 /* BNRReminderViewController.m */,
 				27C71E661AABAD2A00B1B7D2 /* BNRReminderViewController.xib */,
+				27C71E441AAB682D00B1B7D2 /* Images.xcassets */,
+				27C71E3D1AAB682D00B1B7D2 /* Supporting Files */,
 			);
 			path = HypnoNerd;
 			sourceTree = "<group>";
